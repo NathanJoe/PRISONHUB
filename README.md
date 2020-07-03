@@ -25,13 +25,14 @@ constant dump if gay
 deobfuscate if gay
 
 Credits to :
-3dsboy08 - for making the best epic executor
-bmcq#0001 - obfuscator
-DefCon42? - for making ib2 and making wallysecure exist
-Wally - Ui Lib
-Kiwi - Ui Lib fork (lmao)
-Пицца кальцоне#2317 and ElKoax//KoaxyBoy#2020 - teaching me lua
-healo#4141 - prison life 2 inf stamina
-ElKoax//KoaxyBoy#2020 - most of the SAKTK functions
+3dsboy08 - for making the best epic executor.
+bmcq#0001 - obfuscator.
+DefCon42? - for making ib2 and making wallysecure exist.
+Wally - Ui Lib.
+Kiwi - Ui Lib fork (lmao).
+Пицца кальцоне#2317 and ElKoax//KoaxyBoy#2020 - teaching me lua.
+healo#4141 - prison life 2 inf stamina.
+ElKoax//KoaxyBoy#2020 - most of the SAKTK functions.
+
 All of you scripting community <3
 And you ofc, for using this script
