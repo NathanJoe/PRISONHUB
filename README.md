@@ -9,6 +9,13 @@ Requirements for running this script :
 3. getgc
 4. getreg or debug.getregistry
 5. no krnl, fuck off you keysystem gays
+How to use :
+1. Get your trusty good ol executor, can be whatever (krnl if gay)
+2. Inject your executor
+3. Execute this 
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ascaxz/HUB/master/loader.lua"))()
+4. Wait and bam
+5. Happy Exploiting
 Right now, i only tested it for synapseX, proto, sentinel, sirhurt probably supports it, as long as your exploit supports the functions needed
 httspy if gay
 constant dump if gay
