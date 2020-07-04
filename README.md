@@ -12,7 +12,7 @@ Requirements for running this script :
 5. no krnl, fuck off you keysystem gays
 
 How to use :
-1. Get your trusty good ol executor, can be whatever (krnl if gay)
+1. Get your trusty good ol executor, can be whatever that supports the functions needed (krnl if gay)
 2. Inject your executor
 3. Execute this 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/ascaxz/HUB/master/loader.lua"))()
