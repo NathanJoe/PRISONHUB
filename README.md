@@ -36,3 +36,6 @@ ElKoax//KoaxyBoy#2020 - most of the SAKTK functions.
 
 All of you scripting community <3
 And you ofc, for using this script
+EDIT : SYNAPSE ONLY, tested with sentinel, crashed
+sirhurt, firetouchinterest wont work
+so now i made is synapse only
