@@ -5,14 +5,10 @@ hi boss, this is a hub for (for all of you lazy fucks) :
 3. SAKTK (https://www.roblox.com/games/155382109/Survive-and-Kill-the-Killers-in-Area-51)
 
 Requirements for running this script : 
-1. debug.getupvalues
-2. debug.getupvalue
-3. getgc
-4. getreg or debug.getregistry
-5. no krnl, fuck off you keysystem gays
+1. synapse
 
 How to use :
-1. Get your trusty good ol executor, can be whatever that supports the functions needed (krnl if gay)
+1. Get your synapse
 2. Inject your executor
 3. Execute this 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/ascaxz/HUB/master/loader.lua"))()
